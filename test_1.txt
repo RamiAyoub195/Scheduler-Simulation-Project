@@ -1,0 +1,2 @@
+gcc interrupts_101261583_101273477.c -o sim.o
+./sim.o input_data_1.txt FCFS
